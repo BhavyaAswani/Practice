@@ -1,0 +1,40 @@
+Name: Chirag
+Age: 17
+Grade:  A+
+
+Name: Aanya
+Age: 16
+Grade: A
+
+Name: Abhimanyu
+Age: 17
+Grade: B
+
+Name: Abhishek
+Age: 17
+Grade: C
+
+Name: Shruti
+Age: 17
+Grade: A
+
+Name: Radhika
+Age: 17
+Grade: A
+
+Name: Ravi
+Age: 16
+Grade:  A+
+
+Name: Krishna
+Age: 16
+Grade: B
+
+Name: Vaibhav
+Age: 17
+Grade: A+
+
+Name: Kashish
+Age: 39
+Grade: A+
+
